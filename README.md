@@ -1,4 +1,4 @@
-# Angular Template Creation: <a href="https://jmmonjeremy.github.io/project-template/" target="_blank">Wk1 Section1 Task1</a>
+# Victory-Final-Project: <a href="https://jmmonjeremy.github.io/victory-final-project/" target="_blank">Wk14 Final</a>
 Repository for my BYUI WDD 430 Web Full-Stack Development class
 # ProjectTemplate
 

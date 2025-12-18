@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "project-template": {
+    "victory-final-project": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -69,10 +69,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "project-template:build:production"
+              "buildTarget": "victory-final-project:build:production"
             },
             "development": {
-              "buildTarget": "project-template:build:development"
+              "buildTarget": "victory-final-project:build:development"
             }
           },
           "defaultConfiguration": "development"
