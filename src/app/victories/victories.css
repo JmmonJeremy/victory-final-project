@@ -1,0 +1,10 @@
+.display-page {
+  min-width:980px;
+}
+
+.work-page {
+  position: absolute;   /* Takes it out of the normal flow */
+  top: 15rem;            /* Distance from top of nearest positioned ancestor */
+  right: 28rem;          /* Distance from left */
+  z-index: 2;        /* Higher = on top */
+}
